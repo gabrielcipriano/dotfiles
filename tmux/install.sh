@@ -1,1 +1,1 @@
-brew install tmux --head
+brew install tmux
